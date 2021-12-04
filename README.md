@@ -75,16 +75,12 @@ We also use the where condition on the data frame to filter video games sales be
 
 ## Built With
 
-* [Python](https://www.python.org/downloads/release/python-3810/) -The version 3.10 has more features, online documentation and community support
+* [Python](https://www.python.org/downloads/release/python-3810/) - Anaconda contains Python which has lots of online documentation and community support and other scientific packages
 * [Jupiter Notebook](https://jupyter.org/install) - This is an open source cloud based platform where users can edit the document and interpret the sales faster
 
-## Contributing
+## Version
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+The Python version used is 3.8 and Jupiter Notebook is of verson 6.3.0. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
