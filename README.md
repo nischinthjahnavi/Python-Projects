@@ -80,7 +80,7 @@ We also use the where condition on the data frame to filter video games sales be
 
 ## Version
 
-The Python version used is 3.8 and Jupiter Notebook is of verson 6.3.0. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+The Python version used is 3.8 and Jupiter Notebook is of verson 6.3.0
 
 ## Authors
 
@@ -88,7 +88,7 @@ The Python version used is 3.8 and Jupiter Notebook is of verson 6.3.0. For the 
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License 2.0
 ## Acknowledgments
 
 * I would like to acknowledge Gregory Smith who provided the dataset for video game sales data from 2016
