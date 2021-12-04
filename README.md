@@ -72,6 +72,7 @@ Then finally apply mean() on the global sales data alone
 ```
 We also use the where condition on the data frame to filter video games sales before and after pre-2005 and post-2005 value in a new column
 
+![image](https://user-images.githubusercontent.com/95315563/144723178-656279e3-db19-47f0-b30c-8966c892d472.png)
 
 ## Built With
 
