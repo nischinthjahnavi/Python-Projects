@@ -11,7 +11,7 @@ Start an instance of Anaconda distribution running and launch Jupiter Notebook
 
 To execute the sql functions in python, the following software should be installed and ready for use
 
-* [Anaconda](https://www.anaconda.com/products/individual) - Used to install the Anaconda distribution platoform
+* [Anaconda](https://www.anaconda.com/products/individual) - Used to install the Anaconda distribution platform
 
 * [MySQL Workbench](https://dev.mysql.com/downloads/workbench) - Used to install the MySQL workbench in Windows OS for desktop and Laptop
 
@@ -39,12 +39,12 @@ pip install Boruta
 
 Follow the below steps to install the latest version of MySQL workbench in our local machine
 
-1) Go to the MySQL website for for downloads https://www.mysql.com/downloads/
-2) Select the right installaer for Windows and download the same
+1) Go to the MySQL website for downloads https://www.mysql.com/downloads/
+2) Select the right installer for Windows and download the same
 3) After the download, open the installer
 4) Select the right setup type based on your preference
-5) Go with the default setting for conifguration and click Next
-6) For authentication, use a strongle recommended password encryption
+5) Go with the default setting for configuration and click Next
+6) For authentication, use a strong recommended password encryption
 7) Go with the default configuration setting and complete the installation
 8) Now launch the MySQL Workbench and the MySQL Shell
 
@@ -59,24 +59,24 @@ a) Install the mysql-connector-python using pip install command which will help 
 b) Import numpy, mysql.connector and panda libraries in order to implement the right method for sql operations required
 c) Load the video game sales data into a mysql workbench in a separate table
 d) Read the video game sales data into using sql.connect() to establish a connection between the database and python
-e) Keep the credentials like username and password are ket in a separate text fiile to avoid privacy breach
+e) Keep the credentials like username and password are kept in a separate text file to avoid privacy breach
 f) pd.read_sql() is used to read any query passed to it along with the connection object. 
 g) The average global sales for pre-2005 and post-2005 years are displayed.
 ```
 
-Method 2: Using groupby(), and mean() function on the dataframe object
+Method 2: Using groupby (), and mean () function on the dataframe object
 ```
 The steps to execute this method is almost same as compared to method 1.
 The only difference is that instead of using sql.connect(), we use simple groupby method on Sales data
 Then finally apply mean() on the global sales data alone
 ```
-We also use the where condition on the dataframe to filter video games sales before and after pre-2005 and post-2005 value in a new column
+We also use the where condition on the data frame to filter video games sales before and after pre-2005 and post-2005 value in a new column
 
 
 ## Built With
 
-* [Python](https://www.python.org/downloads/release/python-3810/) -The version 3.10 has more features, online documentation and and community support
-* [Jupiter Notebook](https://jupyter.org/install) - This is a open source cloud based platform where users can edit the documetn and interprest the seut faster
+* [Python](https://www.python.org/downloads/release/python-3810/) -The version 3.10 has more features, online documentation and community support
+* [Jupiter Notebook](https://jupyter.org/install) - This is an open source cloud based platform where users can edit the document and interpret the sales faster
 
 ## Contributing
 
@@ -95,4 +95,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
 ## Acknowledgments
 
-* I would like to acknowledge Greogry Smith who provided the datatset for video game sales data from 2016
+* I would like to acknowledge Gregory Smith who provided the dataset for video game sales data from 2016
